@@ -3,9 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Arthur Eduardo de Oliveira Costa
+- Matricula: 902839
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`<Coloque aqui o print da tela de inspeção do seu navegador>`![alt text](<public/img/trabalho diw 2.png>)
